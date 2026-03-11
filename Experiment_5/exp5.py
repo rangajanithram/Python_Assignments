@@ -2,8 +2,8 @@
 Aim: Write a program to demonstrate tuple & related functions in python.
 """
 
-def demonstrate_more_tuples():
-    print("--- EXTENDED TUPLE DEMONSTRATION ---")
+def demonstrate_tuples():
+    print("--- TUPLE FUNCTIONS ---")
     
     my_tuple = (10, 20, 30, 40, 20, 50)
     print(f"Original Tuple: {my_tuple}")
@@ -42,4 +42,4 @@ def demonstrate_more_tuples():
     # all()
     print(f"All true elements in {bool_tuple}?: {all(bool_tuple)}")
     
-demonstrate_more_tuples()
+demonstrate_tuples()
