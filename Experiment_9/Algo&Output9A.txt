@@ -1,3 +1,7 @@
+A. Write a program to implement numpy and pandas
+packages.
+
+
 ALgorithm 
 
 Step 1: Start.
